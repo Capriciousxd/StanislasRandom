@@ -1,4 +1,4 @@
-﻿#include <stdlib.h>
+#include <stdlib.h>
 #include <iostream>
 int main() {
 	int random = srand(rand(time))909 + 1;
